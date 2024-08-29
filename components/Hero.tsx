@@ -25,6 +25,10 @@ const Hero = () => {
                 className="text-center text-[40px] md:text-5xl lg:text-6xl"
                 words="Aaron Tse's Personal Portfolio"
                 />
+
+                <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
+                    Hi I&apos;m Aaron, a current Student at Purdue University studying Computer Science. Welcome to my Portfolio!
+                </p>
             </div>
         </div>
     </div>
