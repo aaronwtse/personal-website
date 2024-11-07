@@ -1,4 +1,4 @@
-import Grid from '@/components/Grid';
+import Grid from '@/components/Grid_idk';
 import Hero from '@/components/Hero';
 import { FloatingNav } from '@/components/ui/FloatingNav';
 import { FaHome } from 'react-icons/fa';
