@@ -1,7 +1,7 @@
 import { gridItems } from '@/data'
 import { BentoGrid, BentoGridItem } from './ui/BentoGrid'
 
-const grid = () => {
+const Grid = () => {
   return (
     <section id="about">
         <BentoGrid>
@@ -18,4 +18,4 @@ const grid = () => {
   )
 }
 
-export default grid
+export default Grid
